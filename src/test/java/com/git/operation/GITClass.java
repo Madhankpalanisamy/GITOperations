@@ -4,6 +4,11 @@ public class GITClass {
 	
 	public void master() {
 		System.out.println("Master");
+	
+	}
+	
+	public void vinoBranch() {
+		System.out.println("vino");
 	}
 	
 	public void sruthiBranch() {
